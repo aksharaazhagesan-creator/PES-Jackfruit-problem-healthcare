@@ -1,0 +1,101 @@
+Patient_ID,Name,Age,Gender,Weight_kg,Height_cm,Condition
+1,Aarav Sharma,  8,   M,      28,        130,  Common Cold
+2,Meera Iyer,    15,  F,      50,        160,   Allergies
+3,Rajesh Kumar,  25,  M,      72,        175,      Flu
+4,Ananya Gupta,  34,  F,      65,        168,  Sinus Infection
+5,Vikram Singh,  42,  M,      85,        178,  Gastric Infection
+6,Pooja Nair,    55,  F,      70,        162,      Diabetes
+7,Arjun Patel,   63,  M,      78,        170,    Hypertension
+8,Kavya Reddy,   72,  F,      60,        158,     Arthritis
+9,Manoj Das,     19,  M,      68,        172,   COVID-Like Illness
+10,Sneha Rao,    28,F,55,165,Fatigue
+11,Prakash Menon,47,M,90,180,Obesity
+12,Divya Joshi,36,F,62,167,Thyroid Disorder
+13,Sunil Verma,52,M,76,174,Asthma
+14,Neha Kapoor,23,F,58,162,Flu
+15,Suresh Babu,31,M,80,176,Sinus Infection
+16,Shalini Mishra,29,F,54,160,Common Cold
+17,Deepak Yadav,40,M,82,179,Hypertension
+18,Ritika Jain,18,F,49,155,Allergies
+19,Harish R,65,M,73,168,Diabetes
+20,Anjali Mehta,70,F,59,157,Arthritis
+21,Rohan Malhotra,27,M,71,174,COVID-Like Illness
+22,Preeti Saxena,33,F,63,166,Fatigue
+23,Amit Khanna,45,M,88,182,Obesity
+24,Swati Kulkarni,56,F,67,161,Thyroid Disorder
+25,Nikhil S,38,M,75,173,Asthma
+26,Rekha Pillai,22,F,52,159,Flu
+27,Santosh Gowda,30,M,79,177,Sinus Infection
+28,Varsha Desai,26,F,57,164,Common Cold
+29,Ajay Kumar,41,M,83,180,Hypertension
+30,Smita R,19,F,48,156,Allergies
+31,Vinod Shetty,66,M,74,169,Diabetes
+32,Leela Krishnan,71,F,61,158,Arthritis
+33,Karan Singh,28,M,70,175,COVID-Like Illness
+34,Shreya Mukherjee,35,F,64,167,Fatigue
+35,Mahesh Joshi,46,M,87,181,Obesity
+36,Anita George,57,F,68,162,Thyroid Disorder
+37,Sachin Rao,39,M,77,174,Asthma
+38,Priya Das,24,F,53,160,Flu
+39,Ravi Sharma,32,M,81,178,Sinus Infection
+40,Komal Jain,27,F,56,163,Common Cold
+41,Naresh Patel,43,M,84,179,Hypertension
+42,Geeta Nair,20,F,50,157,Allergies
+43,Balaji R,67,M,75,170,Diabetes
+44,Radha Menon,73,F,62,159,Arthritis
+45,Aditya Verma,29,M,72,176,COVID-Like Illness
+46,Seema Gupta,37,F,65,168,Fatigue
+47,Krishna Iyer,48,M,89,183,Obesity
+48,Malini R,58,F,69,163,Thyroid Disorder
+49,Suraj Singh,40,M,78,175,Asthma
+50,Nisha Kapoor,25,F,54,161,Flu
+51,Rajiv Mehta,33,M,82,179,Sinus Infection
+52,Anusha Reddy,28,F,57,164,Common Cold
+53,Arvind Kumar,44,M,85,180,Hypertension
+54,Sapna Jain,21,F,51,158,Allergies
+55,Gopal S,68,M,76,171,Diabetes
+56,Latha Pillai,74,F,63,160,Arthritis
+57,Siddharth Rao,30,M,73,177,COVID-Like Illness
+58,Megha Joshi,36,F,66,169,Fatigue
+59,Devendra Singh,49,M,90,184,Obesity
+60,Shobha Nair,59,F,70,164,Thyroid Disorder
+61,Manish Patel,42,M,79,176,Asthma
+62,Renu Das,26,F,55,162,Flu
+63,Harsh Sharma,34,M,83,180,Sinus Infection
+64,Ankita Gupta,29,F,58,165,Common Cold
+65,Sanjay Kumar,45,M,86,181,Hypertension
+66,Pooja R,22,F,52,159,Allergies
+67,Shankar Menon,69,M,77,172,Diabetes
+68,Kiran Iyer,75,F,64,161,Arthritis
+69,Abhishek Verma,31,M,74,178,COVID-Like Illness
+70,Neelam Kapoor,38,F,67,170,Fatigue
+71,Vivek Singh,50,M,91,185,Obesity
+72,Reema Nair,60,F,71,165,Thyroid Disorder
+73,Parth Patel,41,M,80,177,Asthma
+74,Sonia Das,27,F,56,163,Flu
+75,Alok Sharma,35,M,84,181,Sinus Infection
+76,Divya Reddy,30,F,59,166,Common Cold
+77,Ramesh Kumar,46,M,87,182,Hypertension
+78,Shweta Jain,23,F,53,160,Allergies
+79,Mohan S,70,M,78,173,Diabetes
+80,Kalpana Menon,76,F,65,162,Arthritis
+81,Anirudh Rao,32,M,75,179,COVID-Like Illness
+82,Charu Gupta,39,F,68,171,Fatigue
+83,Pradeep Singh,51,M,92,186,Obesity
+84,Savita Nair,61,F,72,166,Thyroid Disorder
+85,Ajit Patel,43,M,81,178,Asthma
+86,Monica Das,28,F,57,164,Flu
+87,Arun Sharma,36,M,85,182,Sinus Infection
+88,Isha Kapoor,31,F,60,167,Common Cold
+89,Satish Kumar,47,M,88,183,Hypertension
+90,Neetu R,24,F,54,161,Allergies
+91,Rajesh Menon,71,M,79,174,Diabetes
+92,Meena Iyer,77,F,66,163,Arthritis
+93,Dev Patel,33,M,76,180,COVID-Like Illness
+94,Shikha Gupta,40,F,69,172,Fatigue
+95,Anup Singh,52,M,93,187,Obesity
+96,Kamala Nair,62,F,73,167,Thyroid Disorder
+97,Harinder Kumar,44,M,82,179,Asthma
+98,Rashmi Das,29,F,58,165,Flu
+99,Sameer Sharma,37,M,86,183,Sinus Infection
+100,Payal Kapoor,32,F,61,168,Common Cold
